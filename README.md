@@ -50,4 +50,4 @@ System.out.print(", ");}
 }
 ```
 # OUTPUT: 
-[!output of exp 2c](e23.png)
+![output of exp 2c](e23.png)
